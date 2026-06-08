@@ -18,7 +18,7 @@ Dashboard Features
 4. Top Performing Region KPI												
 5. Top Platforms by Global Sales												
 6. Top Publishers by Global Sales												
-7. Genre-wise Global Sales Analysis												
+7. Genre-wise Global Sales Analysis
 8.Regional Sales Comparison												
 9. Interactive Year Slicer												
 												
