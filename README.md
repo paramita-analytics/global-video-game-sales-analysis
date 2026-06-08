@@ -42,5 +42,5 @@ Files Included
 4. Interactive Dashboard												
 5. Project Insights Sheet												
 												
-Skills Demonstrated												
+Skills Demonstrated:												
 Data Analysis| Excel Dashboarding| Pivot Tables| Data Visualization| Business Insights| Data Cleaning												
